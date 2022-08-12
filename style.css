@@ -17,7 +17,7 @@ i,
 a:hover,
 button:hover,
 i:hover {
-    color: #52a59f;
+    color: #3179A7;
 }
 
 body {
@@ -67,7 +67,7 @@ body {
 .menu-item:hover,
 .menu-item.active i,
 .menu-item:hover i {
-    color: #52a59f;
+    color:  #3179A7;
 }
 
 
@@ -110,7 +110,7 @@ body {
 }
 
 .role {
-    color: #51a4a1;
+    color:  #3179A7;
     margin-bottom: 20px;
     font-size: 1.2em;
     letter-spacing: 1px;
@@ -180,7 +180,7 @@ button {
 }
 
 .title span {
-    color: #51a4a1;
+    color:  #3179A7;
 }
 
 .section-item {
@@ -206,7 +206,7 @@ button {
 }
 
 .item label {
-    background-color: #52a59f;
+    background-color:  #3179A7;
     color: #fff;
     padding: 0 6px;
     border-radius: 4px;
@@ -241,7 +241,7 @@ button {
 .section-item .domain-item i {
     width: 48px;
     height: 48px;
-    background-color: #52a59f;
+    background-color:  #3179A7;
     border-radius: 50%;
     color: #fff;
     display: flex;
@@ -272,7 +272,7 @@ button {
 }
 
 .section-item i {
-    color: #52a59f;
+    color:  #3179A7;
     margin-right: 16px;
     display: inline-block;
 }
@@ -352,7 +352,7 @@ button {
 }
 
 .project-name:hover {
-    color: #52a59f;
+    color:  #3179A7;
 }
 
 /* More info layer */
@@ -362,7 +362,7 @@ button {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(82, 165, 159, 0.7);
+    background:  #317aa78a;
     display: flex;
     justify-content: center;
     align-items: center;
